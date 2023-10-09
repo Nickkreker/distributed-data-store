@@ -3,4 +3,5 @@ go 1.21.1
 use (
 	./lesson1
 	./lesson2
+	./lesson3
 )
